@@ -13,6 +13,7 @@
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
 |  |
@@ -29,6 +30,7 @@
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Tree
@@ -59,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
@@ -95,12 +98,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
@@ -151,4 +156,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
