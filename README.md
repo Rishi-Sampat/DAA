@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishi-Sampat/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Rishi-Sampat/DAA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
@@ -90,6 +91,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
@@ -108,6 +110,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -116,6 +119,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
@@ -143,4 +147,8 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
