@@ -18,6 +18,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -81,6 +82,7 @@
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -164,6 +166,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 ## Memoization
 |  |
 | ------- |
