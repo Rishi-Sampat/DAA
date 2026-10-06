@@ -13,6 +13,7 @@
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,11 +93,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
