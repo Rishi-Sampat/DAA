@@ -101,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
@@ -146,6 +147,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rishi-Sampat/DAA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 ## Merge Sort
 |  |
 | ------- |
