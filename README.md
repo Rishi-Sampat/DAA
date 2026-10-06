@@ -22,6 +22,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Rishi-Sampat/DAA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0190-reverse-bits) |
@@ -37,16 +38,19 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishi-Sampat/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +120,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
