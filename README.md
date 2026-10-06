@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +49,13 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
+## String
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
