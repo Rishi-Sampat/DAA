@@ -189,10 +189,12 @@
 | [0009-palindrome-number](https://github.com/Rishi-Sampat/DAA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/Rishi-Sampat/DAA/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/Rishi-Sampat/DAA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Rishi-Sampat/DAA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
