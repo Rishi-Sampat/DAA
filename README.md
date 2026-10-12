@@ -149,6 +149,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Rishi-Sampat/DAA/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
@@ -197,6 +198,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rishi-Sampat/DAA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishi-Sampat/DAA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0226-invert-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
