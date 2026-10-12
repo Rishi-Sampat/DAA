@@ -75,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
@@ -110,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
@@ -201,6 +203,7 @@
 | [0002-add-two-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Rishi-Sampat/DAA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishi-Sampat/DAA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/Rishi-Sampat/DAA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Rishi-Sampat/DAA/tree/master/0836-rectangle-overlap) |
