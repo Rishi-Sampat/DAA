@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishi-Sampat/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rishi-Sampat/DAA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rishi-Sampat/DAA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rishi-Sampat/DAA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -105,6 +106,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0191-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
