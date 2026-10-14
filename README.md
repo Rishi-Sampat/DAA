@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
@@ -129,6 +130,7 @@
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi-Sampat/DAA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
 ## Recursion
 |  |
 | ------- |
@@ -251,4 +254,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
