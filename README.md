@@ -117,6 +117,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -132,6 +133,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi-Sampat/DAA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
+| [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
@@ -167,6 +169,7 @@
 | [0088-merge-sorted-array](https://github.com/Rishi-Sampat/DAA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
 ## Merge Sort
 |  |
 | ------- |
