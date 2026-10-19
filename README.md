@@ -136,6 +136,7 @@
 | [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0836-rectangle-overlap](https://github.com/Rishi-Sampat/DAA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 ## Geometry
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -289,4 +292,12 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishi-Sampat/DAA/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
