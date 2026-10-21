@@ -221,6 +221,7 @@
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
+| [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 ## Geometry
 |  |
 | ------- |
@@ -300,4 +301,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
