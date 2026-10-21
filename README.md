@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi-Sampat/DAA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
@@ -216,6 +217,7 @@
 | [0009-palindrome-number](https://github.com/Rishi-Sampat/DAA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Rishi-Sampat/DAA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Rishi-Sampat/DAA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
@@ -304,9 +306,23 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
