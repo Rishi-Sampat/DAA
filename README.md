@@ -28,6 +28,7 @@
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Rishi-Sampat/DAA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishi-Sampat/DAA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -146,6 +147,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Rishi-Sampat/DAA/tree/master/1043-partition-array-for-maximum-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
