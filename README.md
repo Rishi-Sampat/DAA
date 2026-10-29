@@ -130,6 +130,7 @@
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
@@ -256,6 +257,7 @@
 | [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Memoization
 |  |
 | ------- |
