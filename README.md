@@ -90,6 +90,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
@@ -127,6 +128,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -188,6 +190,7 @@
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
 ## Merge Sort
 |  |
@@ -255,6 +258,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
+| [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
