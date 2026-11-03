@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rishi-Sampat/DAA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rishi-Sampat/DAA/tree/master/0118-pascals-triangle) |
@@ -291,6 +293,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 ## Knapsack Problem
 |  |
@@ -354,5 +357,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
