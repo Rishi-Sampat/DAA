@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0746-min-cost-climbing-stairs) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Rishi-Sampat/DAA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
@@ -261,6 +262,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 | [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Rishi-Sampat/DAA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -323,6 +325,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Rishi-Sampat/DAA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishi-Sampat/DAA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Brainteaser
 |  |
