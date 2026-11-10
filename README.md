@@ -164,6 +164,7 @@
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rishi-Sampat/DAA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rishi-Sampat/DAA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Geometry
 |  |
 | ------- |
