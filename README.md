@@ -67,6 +67,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0226-invert-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Rishi-Sampat/DAA/tree/master/0894-all-possible-full-binary-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -87,6 +88,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Rishi-Sampat/DAA/tree/master/0226-invert-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Rishi-Sampat/DAA/tree/master/0894-all-possible-full-binary-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -161,6 +163,7 @@
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/Rishi-Sampat/DAA/tree/master/0894-all-possible-full-binary-trees) |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rishi-Sampat/DAA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rishi-Sampat/DAA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -280,6 +283,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0894-all-possible-full-binary-trees](https://github.com/Rishi-Sampat/DAA/tree/master/0894-all-possible-full-binary-trees) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +306,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0894-all-possible-full-binary-trees](https://github.com/Rishi-Sampat/DAA/tree/master/0894-all-possible-full-binary-trees) |
 ## Backtracking
 |  |
 | ------- |
