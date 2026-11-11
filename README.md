@@ -167,6 +167,7 @@
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rishi-Sampat/DAA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rishi-Sampat/DAA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Heap (Priority Queue)
 |  |
@@ -256,6 +257,7 @@
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
+| [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Geometry
@@ -378,4 +380,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
