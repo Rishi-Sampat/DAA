@@ -134,6 +134,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Rishi-Sampat/DAA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
@@ -158,6 +159,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishi-Sampat/DAA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishi-Sampat/DAA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rishi-Sampat/DAA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Rishi-Sampat/DAA/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
@@ -314,6 +316,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Rishi-Sampat/DAA/tree/master/0131-palindrome-partitioning) |
 ## Knapsack Problem
 |  |
 | ------- |
