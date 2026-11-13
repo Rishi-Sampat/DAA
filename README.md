@@ -34,6 +34,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rishi-Sampat/DAA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishi-Sampat/DAA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -112,6 +113,7 @@
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Rishi-Sampat/DAA/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rishi-Sampat/DAA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishi-Sampat/DAA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Brainteaser
 |  |
