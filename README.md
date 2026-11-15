@@ -36,6 +36,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
+| [3467-transform-array-by-parity](https://github.com/Rishi-Sampat/DAA/tree/master/3467-transform-array-by-parity) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishi-Sampat/DAA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -116,12 +117,14 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
+| [3467-transform-array-by-parity](https://github.com/Rishi-Sampat/DAA/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3467-transform-array-by-parity](https://github.com/Rishi-Sampat/DAA/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
