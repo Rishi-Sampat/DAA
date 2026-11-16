@@ -138,6 +138,7 @@
 | [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0191-number-of-1-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Rishi-Sampat/DAA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Rishi-Sampat/DAA/tree/master/0476-number-complement) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 ## String
@@ -149,6 +150,7 @@
 | [0131-palindrome-partitioning](https://github.com/Rishi-Sampat/DAA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Rishi-Sampat/DAA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
@@ -268,6 +270,7 @@
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Rishi-Sampat/DAA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/Rishi-Sampat/DAA/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Rishi-Sampat/DAA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
