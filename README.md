@@ -32,6 +32,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rishi-Sampat/DAA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rishi-Sampat/DAA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -114,6 +115,7 @@
 | [0561-array-partition](https://github.com/Rishi-Sampat/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
@@ -267,6 +269,7 @@
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -289,6 +292,7 @@
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/1382-balance-a-binary-search-tree) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Memoization
@@ -343,6 +347,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/Rishi-Sampat/DAA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Zero-Sum Game
 |  |
 | ------- |
