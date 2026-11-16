@@ -134,6 +134,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rishi-Sampat/DAA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0191-number-of-1-bits) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Rishi-Sampat/DAA/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Rishi-Sampat/DAA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -261,6 +263,7 @@
 | [0007-reverse-integer](https://github.com/Rishi-Sampat/DAA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishi-Sampat/DAA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Rishi-Sampat/DAA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -402,4 +405,8 @@
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rishi-Sampat/DAA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
