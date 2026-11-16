@@ -138,6 +138,7 @@
 | [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rishi-Sampat/DAA/tree/master/0191-number-of-1-bits) |
+| [0476-number-complement](https://github.com/Rishi-Sampat/DAA/tree/master/0476-number-complement) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
