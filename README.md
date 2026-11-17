@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rishi-Sampat/DAA/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rishi-Sampat/DAA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Rishi-Sampat/DAA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Rishi-Sampat/DAA/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Rishi-Sampat/DAA/tree/master/0131-palindrome-partitioning) |
@@ -270,6 +272,7 @@
 | [0007-reverse-integer](https://github.com/Rishi-Sampat/DAA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rishi-Sampat/DAA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Rishi-Sampat/DAA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Rishi-Sampat/DAA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Rishi-Sampat/DAA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rishi-Sampat/DAA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
