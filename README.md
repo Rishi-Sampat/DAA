@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishi-Sampat/DAA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Rishi-Sampat/DAA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rishi-Sampat/DAA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rishi-Sampat/DAA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
@@ -223,6 +224,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rishi-Sampat/DAA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishi-Sampat/DAA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
