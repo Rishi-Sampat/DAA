@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishi-Sampat/DAA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rishi-Sampat/DAA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Rishi-Sampat/DAA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rishi-Sampat/DAA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rishi-Sampat/DAA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rishi-Sampat/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -107,6 +108,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishi-Sampat/DAA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rishi-Sampat/DAA/tree/master/0169-majority-element) |
@@ -217,6 +219,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishi-Sampat/DAA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Rishi-Sampat/DAA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Rishi-Sampat/DAA/tree/master/0151-reverse-words-in-a-string) |
@@ -415,4 +418,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishi-Sampat/DAA/tree/master/0067-add-binary) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
