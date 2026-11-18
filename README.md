@@ -290,6 +290,7 @@
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
+| [2413-smallest-even-multiple](https://github.com/Rishi-Sampat/DAA/tree/master/2413-smallest-even-multiple) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Geometry
@@ -399,6 +400,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rishi-Sampat/DAA/tree/master/0204-count-primes) |
+| [2413-smallest-even-multiple](https://github.com/Rishi-Sampat/DAA/tree/master/2413-smallest-even-multiple) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 ## Primality Test
 |  |
