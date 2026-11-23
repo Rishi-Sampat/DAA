@@ -41,6 +41,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Rishi-Sampat/DAA/tree/master/3467-transform-array-by-parity) |
+| [3719-longest-balanced-subarray-i](https://github.com/Rishi-Sampat/DAA/tree/master/3719-longest-balanced-subarray-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rishi-Sampat/DAA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -64,6 +65,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Rishi-Sampat/DAA/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rishi-Sampat/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
+| [3719-longest-balanced-subarray-i](https://github.com/Rishi-Sampat/DAA/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Rishi-Sampat/DAA/tree/master/0327-count-of-range-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/Rishi-Sampat/DAA/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -435,4 +439,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rishi-Sampat/DAA/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Rishi-Sampat/DAA/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
