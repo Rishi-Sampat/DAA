@@ -127,6 +127,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishi-Sampat/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Rishi-Sampat/DAA/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -294,6 +295,7 @@
 | [1025-divisor-game](https://github.com/Rishi-Sampat/DAA/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishi-Sampat/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Rishi-Sampat/DAA/tree/master/2413-smallest-even-multiple) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -319,6 +321,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishi-Sampat/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Memoization
 |  |
 | ------- |
