@@ -171,6 +171,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/Rishi-Sampat/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2864-maximum-odd-binary-number](https://github.com/Rishi-Sampat/DAA/tree/master/2864-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/Rishi-Sampat/DAA/tree/master/1641-count-sorted-vowel-strings) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishi-Sampat/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/Rishi-Sampat/DAA/tree/master/2413-smallest-even-multiple) |
+| [2864-maximum-odd-binary-number](https://github.com/Rishi-Sampat/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3765-complete-prime-number](https://github.com/Rishi-Sampat/DAA/tree/master/3765-complete-prime-number) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Rishi-Sampat/DAA/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Geometry
@@ -322,6 +324,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishi-Sampat/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2864-maximum-odd-binary-number](https://github.com/Rishi-Sampat/DAA/tree/master/2864-maximum-odd-binary-number) |
 ## Memoization
 |  |
 | ------- |
