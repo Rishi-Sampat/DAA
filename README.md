@@ -37,6 +37,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Rishi-Sampat/DAA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rishi-Sampat/DAA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishi-Sampat/DAA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rishi-Sampat/DAA/tree/master/3446-sort-matrix-by-diagonals) |
@@ -125,6 +126,7 @@
 | [0912-sort-an-array](https://github.com/Rishi-Sampat/DAA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rishi-Sampat/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishi-Sampat/DAA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rishi-Sampat/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishi-Sampat/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -237,6 +239,7 @@
 | [0647-palindromic-substrings](https://github.com/Rishi-Sampat/DAA/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Rishi-Sampat/DAA/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/Rishi-Sampat/DAA/tree/master/0942-di-string-match) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishi-Sampat/DAA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -324,6 +327,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Rishi-Sampat/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rishi-Sampat/DAA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rishi-Sampat/DAA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rishi-Sampat/DAA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rishi-Sampat/DAA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rishi-Sampat/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2864-maximum-odd-binary-number](https://github.com/Rishi-Sampat/DAA/tree/master/2864-maximum-odd-binary-number) |
